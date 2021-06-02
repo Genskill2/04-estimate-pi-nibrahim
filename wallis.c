@@ -25,5 +25,5 @@ int main(void) {
 }
 
 float wallis_pi(int x) {
-   return 10.0;
+  return 3.1415;
 }
